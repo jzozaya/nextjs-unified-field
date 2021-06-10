@@ -1,0 +1,7 @@
+.dashboard {
+    @apply pb-10;
+}
+
+.dashboard p{
+    @apply mb-0;
+}
